@@ -9,4 +9,7 @@
     <color name="sunset_sky">#ec8100</color>
     <color name="night_sky">#05192e</color>
     <color name="sea">#224869</color>
+    <color name="sun_reflection">#c2dc9d</color>
+    <color name="cloud">#F3F6FF</color>
+    <color name="cloud_reflection">#ADD8E6</color>
 </resources>
